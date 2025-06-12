@@ -1,0 +1,1 @@
+export const nestAppStartedKey = 'NEST_APP_STARTED';

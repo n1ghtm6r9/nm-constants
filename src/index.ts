@@ -9,3 +9,4 @@ export * from './emailRegex';
 export * from './passwordRegex';
 export * from './usernameRegex';
 export * from './paginationLimit';
+export * from './nestAppStartedKey';
